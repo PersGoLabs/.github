@@ -1,5 +1,7 @@
 # Welcome to PersGo! 🚀
 
+![PersGo Logo](persgo_logo (500x500).jpg)
+
 PersGo is a modern platform designed for efficient collaboration, file management, and innovation.
 
 ## About PersGo 🌐
